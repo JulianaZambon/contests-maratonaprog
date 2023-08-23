@@ -1,2 +1,2 @@
-# contests-maratonaprog
-Contests realizados para estudo/treino para a Maratona SBC de Programação
+# contests
+Contests held for study/practice for the SBC Programming Marathon.
